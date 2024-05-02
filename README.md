@@ -1,8 +1,5 @@
 # librarySystem
 
-## 开发完毕
-万一你要作为课程设计或者毕设，不太会配，可以到下面我博客中私信，我帮你远程部署成功，但收费
-
 ## 技术栈
 - 数据库：MySQL
 - 开发工具：IDEA
@@ -15,14 +12,6 @@
 
 ## 介绍
 基于SSM+Layui的图书管理系统
-
-- 主要功能开发步骤见，本人博客，代码有不同的话，以gitee中的完整版为主， **数据库** 如下，免费分享
-
-链接：https://pan.baidu.com/s/1e27Q3ej-42Dor3_yTlBYRw 
-提取码：lizi 
-复制这段内容后打开百度网盘手机App，操作更方便哦
-
-博客链接：https://blog.csdn.net/weixin_39615182/article/details/115458248
 
 ### 1、后台首页index（开发完毕）
 ![首页](https://images.gitee.com/uploads/images/2021/0405/151255_0818142c_8169242.png "首页截图.png")
